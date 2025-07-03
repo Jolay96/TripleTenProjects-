@@ -55,4 +55,4 @@ This project uses historical customer behavior data to build a classification mo
 - Handling imbalanced classes
 - Model evaluation (Accuracy, F1, AUC-ROC)
 - Jupyter Notebook documentation
-- Quick Link to Project [here](https://github.com/Jolay96/TripleTenProjects-/tree/main/Beta%20Bank%20Supervised%20Learning)
+- Quick Link to Project [here](https://github.com/Jolay96/TripleTenProjects-/blob/main/Beta%20Bank%20Supervised%20Learning/Beta%20Bank%20Supervised%20Learning.ipynb)

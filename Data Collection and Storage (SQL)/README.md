@@ -53,4 +53,4 @@ Zuber is a new ride-sharing company preparing to launch in Chicago. As part of t
 - Hypothesis testing using SQL outputs
 - Exploratory analysis of relational data
 - Jupyter Notebook documentation
-- Quick link to project [here](https://github.com/Jolay96/TripleTenProjects-/blob/main/Data%20Collection%20and%20Storage%20(SQL)/data_collection_and_storage_(sql).py)
+- Quick link to project [here](https://github.com/Jolay96/TripleTenProjects-/blob/main/Data%20Collection%20and%20Storage%20(SQL)/Data_Collection_and_Storage_(SQL).ipynb)
